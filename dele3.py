@@ -1,9 +1,10 @@
-Dele is a boy
-Class list
+Class list for SS2A
+Dele - (Class captain)
 Ade
 Tolu
 Lolade
 Titi
-Tito
+Titok
 Adelaja
-
+Toyin
+Tomato
